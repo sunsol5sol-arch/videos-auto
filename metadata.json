@@ -1,0 +1,6 @@
+{
+  "name": "AutoVideo AI Studio - Multi-Agent Video Engine",
+  "description": "Sistema autônomo e modular de geração, edição e automação de vídeos com múltiplos agentes de IA, redundância de APIs, esteira Kanban e editor de timeline com templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
